@@ -14,3 +14,6 @@ Intel(R) Core(TM) i3-7100U CPU @ 2.40GHz 2.40 GHz
 RAM 4 GB
 
 ## CARACTERÍSTICAS DEL PROGRAMA 
+- 2.36.1
+- phyton 3.4
+- packages: sciphy 4.5.2, matplotlib 1.2.12
